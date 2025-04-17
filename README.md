@@ -27,6 +27,6 @@ My curiosity led me from art to **engineering**, where I discovered the beauty o
 ---
 
 ## 🌐 Let’s Connect
-
-- [GitHub Projects](https://github.com/daniamorimdesa)
 - [LinkedIn](https://www.linkedin.com/in/daniela-amorim-de-s%C3%A1-3b6234191/)
+- [GitHub Projects](https://github.com/daniamorimdesa)
+

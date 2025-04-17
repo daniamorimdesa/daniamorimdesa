@@ -16,7 +16,7 @@
 💡 I'm always exploring how to blend tech and creativity to make interactive experiences and smart solutions.
 
 📫 Feel free to connect with me:
-- LinkedIn: [linkedin.com/in/daniamorimdesa](https://linkedin.com/in/daniamorimdesa)
+- [LinkedIn](https://www.linkedin.com/in/daniela-amorim-de-s%C3%A1-3b6234191/)
 - GitHub: [@daniamorimdesa](https://github.com/daniamorimdesa)
 
 ---

@@ -33,7 +33,7 @@ My curiosity led me from art to **engineering**, where I discovered the beauty o
 
 - 🎮[**Rock Paper Scissors – 8-bit Edition**](https://github.com/daniamorimdesa/Rock-Paper-Scissors): A retro-styled classic game with pixel visuals, animations, and score tracking.
 
-- 💰[**Currency Converter (International)**](https://github.com/daniamorimdesa/CurrencyConverter-Intl): Simple and clean currency converter built for international users, showcasing form handling and API integration.
+- 💰[**Currency Converter (International)**](https://github.com/daniamorimdesa/currency-converter): Simple and clean currency converter built for international users, showcasing form handling and API integration.
 
 ---
 

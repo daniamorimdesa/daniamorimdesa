@@ -23,7 +23,7 @@ My curiosity led me from art to **engineering**, where I discovered the beauty o
 ### 🔧 Embedded Systems & IoT
 
 - [**CoffeeTime**](https://github.com/daniamorimdesa/CoffeeTime-SmartCoffeeMachine) :☕ A smart coffee machine prototype built in Wokwi using Raspberry Pi Pico.  
-- [**CodeLock**](https://github.com/daniamorimdesa/DigitalSafe):🔐 4-digit password-protected digital safe with display, keypad input, and lockout system using Raspberry Pi Pico.
+- [**CodeLock**](https://github.com/daniamorimdesa/CodeLock-Pico):🔐 4-digit password-protected digital safe with display, keypad input, and lockout system using Raspberry Pi Pico.
 
 ---
 

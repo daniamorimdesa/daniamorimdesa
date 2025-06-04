@@ -1,7 +1,4 @@
-## 🎨✨ About Me
-
-Hi! I'm **Daniela Amorim de Sá**, and I have a deep passion for **creating** — in all shapes, colors, and codes.
-
+## Hi! I'm Daniela Amorim de Sá 🎨👩🏻‍💻✨ 
 Whether I'm **painting**, editing videos or diving into **hardware and software development**, one thing remains the same:
 I love building meaningful and magical things. My curiosity led me from art to **engineering**, where I discovered the beauty of logic, systems, and **technology**. I’ve worked with **embedded systems**, **IoT**, and more recently, I’ve been exploring the world of **front-end development**, blending creativity and code to bring ideas to life.✨
 

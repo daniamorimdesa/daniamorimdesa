@@ -37,13 +37,14 @@ I love building meaningful and magical things. My curiosity led me from art to *
 
 ## 🚀 Current Focus
 
-- Building interactive web projects with **HTML/CSS/JS**
-- Sharing personal experiments and games on **GitHub** and **CodePen**
-- Documenting my journey in tech + art
+- Developing cross-platform apps with Flutter + Firebase
+- Building interactive web experiences with HTML/CSS/JS
+- Bridging the gap between creativity and code in embedded and digital projects
+- Sharing personal experiments and projects on GitHub and CodePen
 
 ---
 
 ## 🌐 Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/daniela-amorim-de-s%C3%A1-3b6234191/)
-- [GitHub Projects](https://github.com/daniamorimdesa)
+- [GitHub Projects](https://github.com/daniamorimdesa?tab=repositories)
 
